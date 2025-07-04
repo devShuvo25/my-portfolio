@@ -7,6 +7,9 @@ body{
     font-family: 'Poppins', sans-serif;
     background-color: #f0f0f0;
 }
+.nav_icon{
+    display: none;
+}
 /* nav bar design */
 .header{
     background-color: #373636;

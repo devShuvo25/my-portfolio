@@ -55,5 +55,20 @@ p{
     padding: 0 20px;
 
 }
+.header{
+    position: relative;
+    /* position: fixed !important; */
+}
+.nav_icon{
+    display: block;
+    position: absolute;
+    top: 40px;
+    right:20px;
+}
+.fa-bars{
+    font-size: 30px;
+    color: #ff5308;
+    cursor: pointer;
+}
 
 
