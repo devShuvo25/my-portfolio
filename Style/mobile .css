@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+}
+
 
 .navbar{
     display:none
@@ -21,9 +24,9 @@
 a{
     font-size:14px;
 }
-p{
+/* p{
     font-size: 10px;
-}
+} */
 
 
 .content{
@@ -71,4 +74,15 @@ p{
     cursor: pointer;
 }
 
+/* //optional */
 
+p{
+    font-size: 14px !important;
+}
+h1{
+    font-size: 30px !important;
+
+}
+/* .content p{
+    font-size: 30px;
+} */
